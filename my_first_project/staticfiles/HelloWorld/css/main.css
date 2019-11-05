@@ -1,0 +1,9 @@
+ul {
+    color: blue;
+    text-align: center;
+}
+h1 {
+    color: chartreuse;
+    align-self: auto;
+    size: 35px;
+}
